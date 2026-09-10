@@ -43,3 +43,6 @@ A DIY Semi-Humanoid Robot for Physical AI
 | **No. of Encoders** | 1 | 1 | 1 | 1 | 1 |
 | **Encoder Type** | Magnetic encoder (single-turn) | Magnetic encoder (single-turn) | Magnetic encoder (single-turn) | Magnetic encoder (single-turn) | Magnetic encoder (single-turn) |
 | **Control Interface** | CAN-FD | CAN-FD | CAN-FD | CAN-FD | CAN-FD |
+
+> [!NOTE]
+> The GIM6010-8 currently does not provide enough torque. Need to either use a higher-spec motor driver or change the gear ratio.
